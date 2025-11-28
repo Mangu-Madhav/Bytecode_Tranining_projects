@@ -12,7 +12,7 @@
 
 - User must enter the correct 4-digit PIN.
 
-- Maximum 3 attempts allowed.
+- Maximum 3 attempts are allowed.
 
 - After 3 failed attempts, the card gets blocked.
 
