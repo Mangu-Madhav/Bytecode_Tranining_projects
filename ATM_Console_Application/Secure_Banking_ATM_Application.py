@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 #ATM Console Application
 balance = 50000           
 correct_pin = 2004 
