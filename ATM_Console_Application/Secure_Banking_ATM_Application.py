@@ -50,7 +50,7 @@ else:
                         c+=1
                     if(c==4):
                         correct_pin=new_pin
-                        print("New pin Updated..Successfully")
+                        print("New PIN Updated..Successfully")
                     else:
                         print("please enter only 4 digit pin")
                 else:
