@@ -13,7 +13,6 @@ while(attempts<max_attempts and pin!=correct_pin):
     print("you have left only",max_attempts-attempts,"attempts")
     attempts+=1
     pin=int(input("enter correct pin"))
-    print(attempts)
 if(attempts==3 and pin!=correct_pin):
     print("YOur Card has blocked")
 else:
